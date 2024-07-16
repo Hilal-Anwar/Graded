@@ -4,70 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c221a648-dae6-496e-a10e-a3b550c61e02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/CustomView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/LayoutAnimator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/LeaderBoardView2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/MFXDemoResourcesLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/MyLeaderView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/MyTimeTableView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/StudentDataLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/TimeTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/TimeTableLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/graded/TimeTableView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/Common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/MFXColors.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/__logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/_main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/b1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/b2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/b3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/b4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/b5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/Montserrat-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/OFL.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-Black.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-BlackItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-BoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-ExtraBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-ExtraBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-ExtraLightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-Italic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-LightItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-MediumItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-SemiBoldItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-Thin.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/fonts/Montserrat/static/Montserrat-ThinItalic.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/imageedit_2_4477328236.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/leader_board_view1.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/leader_board_view2.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/my-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/my_back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/org/graded/time_table_view.fxml" afterDir="false" />
+    <list default="true" id="c221a648-dae6-496e-a10e-a3b550c61e02" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -75,6 +24,11 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2jJlWSETOCpH2VA0a2yVr8EbEx5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -82,8 +36,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/hilal/IdeaProjects/Graded"
   }
@@ -126,6 +82,19 @@
       <option name="presentableId" value="Default" />
       <updated>1721111542913</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1721112458236</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721112458236</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
