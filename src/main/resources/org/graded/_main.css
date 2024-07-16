@@ -1,0 +1,94 @@
+@import './fonts/Fonts.css';
+@import 'MFXColors.css';
+@import 'Common.css';
+
+#title {
+    -fx-font-size: 40px;
+    -fx-font-family: 'Montserrat Bold';
+}
+
+#layer {
+
+    -fx-background-image: url('my_back.png');
+    -fx-background-size: cover;
+
+}
+
+.custom-view {
+    -fx-border-color: transparent;
+    -fx-background-radius: 10;
+    -fx-background-color: #1c75bc20;
+    -fx-border-radius-radius: 10px;
+    -fx-font-family: 'Montserrat Bold';
+    -fx-font-size: 15px;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 10, 0.12, -1.0, 2.0);
+
+}
+
+.list-cell:hover {
+
+}
+
+#custList_hold {
+    -fx-background-color: #fafafa;
+    -fx-padding: 10;
+    -fx-border-color: transparent;
+    -fx-background-radius: 10;
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.5), 10, 0.12, -1.0, 2.0);
+}
+
+#custList {
+    -fx-background-color: #fafafa;
+    -fx-padding: 10;
+    -fx-border-color: transparent;
+    -fx-background-radius: 10;
+
+}
+
+#custList .scroll-bar:horizontal .increment-button,
+#custList .scroll-bar:horizontal .decrement-button {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0.0em;
+    -fx-padding: 0.0 0.0 5.0 0.0;
+
+}
+
+#custList .scroll-bar:vertical .increment-button,
+#custList .scroll-bar:vertical .decrement-button {
+    -fx-background-color: transparent;
+    -fx-background-radius: 0.0em;
+    -fx-padding: 0.0 5.0 0.0 0.0;
+
+}
+
+#custList .scroll-bar .increment-arrow,
+#custList .scroll-bar .decrement-arrow {
+    -fx-shape: " ";
+    -fx-padding: 0.15em 0.0;
+}
+
+#custList .scroll-bar:vertical .increment-arrow,
+#custList .scroll-bar:vertical .decrement-arrow {
+    -fx-shape: " ";
+    -fx-padding: 0.0 0.15em;
+}
+
+#custList .scroll-bar .track {
+    -fx-background-color: rgb(230, 230, 230);;
+    -fx-background-radius: 2em;
+    -fx-border-radius: 2em;
+
+}
+
+#custList .thumb {
+    -fx-background-color: rgb(137, 137, 137);
+}
+
+#custList .thumb:hover {
+    -fx-background-color: rgb(89, 88, 91);
+}
+
+#custList .list-cell {
+    -fx-background-color: #fafafa;
+    -fx-background-radius: 10;
+}
